@@ -2,4 +2,5 @@
 
 ![Visitor Count](https://hits.sh/thehotelkeeper.github.io.svg?label=..&color=414c3c)
 
-<img width="861" height="861" alt="image" src="https://github.com/user-attachments/assets/5c0467dc-3f64-44a3-9822-e3d3afdd9f57" />
+![17713451277087404780876988625733](https://github.com/user-attachments/assets/629d28cd-d799-497f-800a-65bc3c4009c5)
+
